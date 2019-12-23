@@ -1,10 +1,8 @@
 ## 欢迎访问我的个人博客
 
-You can use the [editor on GitHub](https://github.com/layabout4233629/layabout/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+第一使用github，也是好多年没写过技术博客了。 [我的博客](https://github.com/layabout4233629/layabout/edit/master/index.md) 希望可以记录自己在学习过程中的一些心得，也把一些零散的知识点通过写博客的方式整理出来以便加强记忆和日后查看。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
+### 关于python的学习。
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
