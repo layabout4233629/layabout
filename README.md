@@ -7,7 +7,7 @@
 1. [关于python的学习](https://github.com/layabout4233629/blog/issues/1) 2019-12-23
 1. [使用tushare获取股票信息](https://github.com/layabout4233629/layabout/issues/2)  2019-12-23
 1. [如何安装ubuntu和Win10双系统](https://github.com/layabout4233629/layabout/issues/3)  2019-12-23
-
+1. [在ubuntu上安装ROS](https://github.com/layabout4233629/layabout/issues/4) 2019-12-25
 
 ### 个人介绍
 一个学计算机科学与技术专业的混子，在500强的大厂用VC6.0混了10年，出来创业未果，决定先继续打工，接触一些新知识，为自己服务。
