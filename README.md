@@ -12,6 +12,7 @@
 1. [使用websocket连接蓝牙](https://github.com/layabout4233629/layabout/issues/6) 2019-12-26
 1. [安装python开发环境](https://github.com/layabout4233629/layabout/issues/7) 2019-12-26
 1. [在Docker中使用ROS](https://github.com/layabout4233629/layabout/issues/8) 2019-12-26
+1. [为什么选择ROS](https://github.com/layabout4233629/layabout/issues/9) 2019-12-26
 
 ### 个人介绍
 一个学计算机科学与技术专业的混子，在500强的大厂用VC6.0混了10年，出来创业未果，决定先继续打工，接触一些新知识，为自己服务。
