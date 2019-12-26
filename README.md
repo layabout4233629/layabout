@@ -10,6 +10,7 @@
 1. [在ubuntu上安装ROS](https://github.com/layabout4233629/layabout/issues/4) 2019-12-25
 1. [如何打包发布ROS程序](https://github.com/layabout4233629/layabout/issues/5) 2019-12-25
 1. [使用websocket连接蓝牙](https://github.com/layabout4233629/layabout/issues/6) 2019-12-26
+1. [安装python开发环境](https://github.com/layabout4233629/layabout/issues/7) 2019-12-26
 
 ### 个人介绍
 一个学计算机科学与技术专业的混子，在500强的大厂用VC6.0混了10年，出来创业未果，决定先继续打工，接触一些新知识，为自己服务。
