@@ -1,6 +1,6 @@
 ## 欢迎访问我的个人博客
 
-第一使用github，也是好多年没写过技术博客了。 [我的博客](https://github.com/layabout4233629/layabout/edit/master/index.md) 希望可以记录自己在学习过程中的一些心得，也把一些零散的知识点通过写博客的方式整理出来以便加强记忆和日后查看。
+第一次使用github，也是好多年没写过技术博客了。 [我的博客](https://github.com/layabout4233629/layabout/edit/master/index.md) 希望可以记录自己在学习过程中的一些心得，也把一些零散的知识点通过写博客的方式整理出来以便加强记忆和日后查看。
 
 ## 目录
 
