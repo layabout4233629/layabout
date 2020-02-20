@@ -17,6 +17,7 @@
 1. [python3里的asyncio](https://github.com/layabout4233629/layabout/issues/11) 2019-12-30
 1. [实战线程池和协程](https://github.com/layabout4233629/layabout/issues/12) 2019-12-31
 1. [尝试在WIN10下使用ROS](https://github.com/layabout4233629/layabout/issues/13) 2020-1-9
+1. [将ubuntu14.04虚拟机的python从2.7.6升级到2.7.9+](https://github.com/layabout4233629/layabout/issues/14) 2020-2-20
 
 ### 个人介绍
 一个学计算机科学与技术专业的混子，在500强的大厂用VC6.0混了10年，出来创业未果，决定先继续打工，接触一些新知识，为自己服务。
